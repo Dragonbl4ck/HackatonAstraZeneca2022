@@ -1,0 +1,14 @@
+form{
+    padding-left: 40px;
+}
+
+form img{
+    padding-left: 15px;
+    height: 25px;
+    width: 25px;
+}
+
+table tr, table td{
+    height: 20px;
+    width: 20px;
+}
